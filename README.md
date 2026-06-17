@@ -23,7 +23,7 @@ Memeify-Thumbnail is an open-source project designed to inject custom "overlay" 
 
 ### Why does it exist?
 
-We are taking the core concept from [MrBeastify-Youtube](https://www.google.com/search?q=https://github.com/MagicJinn/MrBeastify-Youtube) and evolving it. While the original project was a simple browser extension limited to YouTube, our goal is to build a universal "Overlay Engine" that supports more characters, multiple platforms and devices, including mobile apps via Magisk/LSPosed modules.
+We are taking the core concept from [MrBeastify-Youtube](https://github.com/MagicJinn/MrBeastify-Youtube) and evolving it. While the original project was a simple browser extension limited to YouTube, our goal is to build a universal "Overlay Engine" that supports more characters, multiple platforms and devices, including mobile apps via Magisk/LSPosed modules.
 
 ### Core Features
 
