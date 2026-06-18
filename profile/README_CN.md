@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/icon.png" width="200" height="200" alt="Memeify-Thumbnail Logo">
+  <img src="../assets/icon.png" width="200" height="200" alt="Memeify-Thumbnail Logo">
   
   <h1>Memeify-Thumbnail</h1>
   <p><b>Overlay tools for video thumbnail modification in multiple platforms.</b></p>
